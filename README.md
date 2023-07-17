@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>DailyScope</h1>
+  <h1>📝 ThesisCraftify 📝</h1>
   <p1>Elevate Your Capstone with Expertly Crafted Titles.</p1>
   </div>
 
