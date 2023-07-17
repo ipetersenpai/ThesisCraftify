@@ -7,8 +7,16 @@
 
 Welcome to the Thesis or Capstone Title Generator! We are thrilled to present you with a revolutionary tool designed to simplify and elevate your academic journey. 
 
+## Built With:
 
-## Features
+[![react](https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcomponents.com/)
+[![typescript](https://img.shields.io/badge/typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![django](https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![material ui](https://img.shields.io/badge/materalUI-0069ff?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![python](https://img.shields.io/badge/python-e9b500?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+## Features:
 
 - Title Generation Algorithm: The core feature of the application, this advanced algorithm will employ natural language processing (NLP) and machine learning techniques to generate high-quality, relevant, and captivating thesis and capstone titles.
 
@@ -29,5 +37,5 @@ Welcome to the Thesis or Capstone Title Generator! We are thrilled to present yo
 These features together will make the Thesis-Capstone-Title-Generator web application a powerful and indispensable tool for students and researchers, streamlining the title creation process and elevating the quality and impact of their academic work.
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This program is provided under the [MIT License](https://github.com/ipetersenpai/ThesisCraftify/blob/main/LICENSE)
 
