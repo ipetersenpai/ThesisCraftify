@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📝 ThesisCraftify 📝</h1>
-  <p1>Elevate Your Capstone with Expertly Crafted Titles.</p1>
+  <p1>Elevate Your Thesis with Expertly Crafted Titles.</p1>
   </div>
 
 ## Introduction:
