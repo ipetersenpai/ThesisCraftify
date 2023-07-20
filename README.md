@@ -14,7 +14,7 @@ Welcome to the Thesis or Capstone Title Generator! We are thrilled to present yo
 [![typescript](https://img.shields.io/badge/typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![django](https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![material ui](https://img.shields.io/badge/materalUI-0069ff?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![python](https://img.shields.io/badge/python-e9b500?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![python](https://img.shields.io/badge/python-e9b500?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
 
 ## Features:
 
